@@ -1,0 +1,38 @@
+div { 
+  background:#CCC;
+  margin:8px;
+  padding:5px;
+  width:100%;
+}
+img {
+  width:300px;
+  height:auto;
+  display:block;
+  border-radius:50%;
+//  box-shadow:5px 5px red;
+  padding:10px;  //colchon para el borde
+  border:5px solid #424242;  //sustituye la sombra
+}
+.menu {
+  width:65%;
+  background:yellow;
+  list-style:none;
+  margin:10px;
+  padding:8px;
+  font-size: 20;
+}
+.menu li {
+  display:inline-block;
+}
+.menu li a {
+  display:inline-block;
+  color:black;
+  padding: 10px 20px;
+}
+.menu li a:hover {
+  background:;
+  color:red;
+}  
+body{
+  background:#ce1212;
+}
